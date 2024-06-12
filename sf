@@ -1,0 +1,155 @@
+<div class="contai">
+    <div class="rozz">
+        <div class="smm">
+                <div class="dropdown">
+                    <button onclick="myFunction()" class="dropbtn"> 
+                        <div class="russ">
+                            <div class="world">
+                                <img src="Stores/world.png" alt="dd" width="15" height="15">
+                            </div>
+                            
+                        </div>
+                        <div class="russ">
+                            <div class="world">
+                                Русский
+                            </div>
+                        </div>
+                        <div class="russ">
+                            <div class="world">
+                              
+                            </div>
+                        </div>
+                        <div class="russ">
+                            <div class="world">
+                               
+                            </div>
+                        </div>
+                        <div class="russ">
+                            <div class="world">
+                                
+                            </div>
+                        </div>
+                        <div class="russ">
+                            <img src="Stores/Shape.png" alt="dd" width="14" height="8"></button>
+                        </div>
+                    </button>
+                    <div id="myDropdown" class="dropdown-content">
+                      <a href="#">English</a>
+                      <a href="#">Татарча</a>
+                      <a href="#">Yzbekish</a>
+                    </div>
+                  </div>
+                  
+            
+            
+        </div>
+        <div class="sm">
+            Об UberEats
+        </div>
+        <div class="sm">
+            Все города
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-3">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 mt-5">
+                        <div class="dropdown">
+                            <button onclick="myFunction()" class="dropbtn"> 
+                                <div class="russ">
+                                    <div class="world">
+                                        <img src="Stores/world.png" alt="dd" width="15" height="15">
+                                    </div>
+                                    
+                                </div>
+                                <div class="russ">
+                                    <div class="world">
+                                        Русский
+                                    </div>
+                                </div>
+                                <div class="russ">
+                                    <div class="world">
+                                      
+                                    </div>
+                                </div>
+                                <div class="russ">
+                                    <div class="world">
+                                       
+                                    </div>
+                                </div>
+                                <div class="russ">
+                                    <div class="world">
+                                        
+                                    </div>
+                                </div>
+                                <div class="russ">
+                                    <img src="Stores/Shape.png" alt="dd" width="14" height="8"></button>
+                                </div>
+                            </button>
+                            <div id="myDropdown" class="dropdown-content">
+                              <a href="#">English</a>
+                              <a href="#">Татарча</a>
+                              <a href="#">Yzbekish</a>
+                            </div>
+                          </div>
+                          
+                    </div>
+                    <div class="col-12 mt-4">
+                        <div class="sm">
+                           <span style="color: #49A144;">#</span> UberEats
+                        </div>
+                    </div>
+                    <div class="col-12 mt-4">
+                        <div class="sm">
+                            <img src="facebook.png" alt="" width="24" height="24"><img src="twitter.png" alt="" width="24" height="24">
+                            <img src="instagram.png" alt=""  width="24" height="24">
+                        </div>
+                    </div>
+                </div>
+              </div>
+        </div>
+        <div class="col-5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        Об UberEats
+                    </div>
+                    <div class="col-12">
+                        
+                    </div>
+                    <div class="col-12">
+                        
+                    </div>
+                </div>
+              </div>
+        </div>
+        <div class="col-4">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+            
+                    </div>
+                    <div class="col-12">
+                        
+                    </div>
+                    <div class="col-12">
+                        
+                    </div>
+                </div>
+              </div>
+        </div>
+    </div>
+  </div>
